@@ -1,1 +1,1 @@
-# coinflips
+R code for coinflip probability
